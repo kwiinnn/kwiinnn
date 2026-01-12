@@ -1,5 +1,5 @@
 # Hallo, Guten Tag!
-## Mein Name ist Charles Solomon. <br> My name is Charles Solomon. <br>A first year BS Computer Science student from the University of the Philippines - Mindanao
+## Mein Name ist Charles Solomon. <br> My name is Charles Solomon. <br><br>A first year BS Computer Science student from the University of the Philippines - Mindanao
 
 ## Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Charles.10solomon) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/charles-solomon-34aa1b2a1/) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/kwiinnn) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:solomon23charles@gmail.com) 
